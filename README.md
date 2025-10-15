@@ -14,15 +14,21 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-##Links for assignments 
+
+
+LINKS FOR GITHUB AND LIVE WEBSITE
 
 https://github.com/Nyla-Hughes/slu-stagram 
 
 https://68ef1f993fb3ef1a2f61df29--remarkable-liger-07d0e1.netlify.app/ 
 
-(localhost running)(one liked, one not): screenshot1.png
+(localhost running)(one liked, one not): 
+<img width="1389" height="795" alt="screenshot1" src="https://github.com/user-attachments/assets/89917550-05a5-4bae-87a5-5e6d4d015baa" />
 
 ** screenshots are in screenshot folder* 
-Hover: screenshot3.png
-Comment visible:screenshot4.png
-clean console:screenshot2.png
+Hover: 
+<img width="1230" height="706" alt="screenshot3" src="https://github.com/user-attachments/assets/9d01544a-8070-45f5-ace5-ac739648aa5b" />
+Comment visible: 
+<img width="622" height="581" alt="screenshot4" src="https://github.com/user-attachments/assets/3d56fc20-0587-443f-9469-5b0877eb9cdc" />
+clean console: 
+<img width="1418" height="798" alt="screenshot2" src="https://github.com/user-attachments/assets/4341d61f-fec0-4560-9335-238e68e12860" />
