@@ -20,7 +20,7 @@ https://68ef1f993fb3ef1a2f61df29--remarkable-liger-07d0e1.netlify.app/
 
 (localhost running)(one liked, one not): screenshot1.png
 
+** screenshots are in screenshot folder* 
 Hover: screenshot3.png
-
 Comment visible:screenshot4.png
 clean console:screenshot2.png
